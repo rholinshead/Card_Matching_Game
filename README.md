@@ -3,6 +3,8 @@ Card_Matching_Game
 
 A simple card-matching game made with Java. 
 
+Credit / Thanks goes to Mr. Picheca for helping with the setup and completion of this project. 
+
 Please note this is my very first repository on GitHub and therefore any techniques that come with experience are 
 bound to be missing (sorry).
 
